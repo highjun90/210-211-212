@@ -1,0 +1,34 @@
+1. ImGui Tool
+
+2. Editor 구현
+  - 재질 저장 불러오기 (Menu)
+  - Object Clone, 복사생성자
+  - 에디터 전용 오브젝트 (ex 에디터 카메라 )
+  - 레벨 상태 구현(Play, Pasue, Stop)
+
+  - Level 초기화작업을 Engine 프로젝트에서 분리
+  - Script 프로젝트 분리
+    - 스크립트 클래스 코드 자동화
+
+  - 레벨 Save / Load
+
+  - Prefab(Asset)
+
+  - Content UI 에셋 자동 로딩
+
+  - Sound (FMOD)
+
+  - Level Play, Stop, Pause 를 Menu UI 랑 연동
+
+  - Font 
+
+  - FSM
+
+포트폴리오 계획표 작성하기
+1. notion 이나 유사한 일정관리 작성표 제작하기
+  - 기본 틀 정도
+
+2. 게임 선정하기
+  - 창작 게임 금지
+  - 19, 연애시뮬레이션 (강추 용기있는 자만)
+  - 모작 or 장르만 모작(해당 장르 대표 게임 선정)

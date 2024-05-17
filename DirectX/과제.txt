@@ -1,0 +1,20 @@
+1. PostProcess 효과를 이용한 이펙트 구현
+  - Distortion 을 이용한 이펙트
+ - 외곽선 효과
+
+
+
+
+240119
+컴포넌트를 ImGui 를 통해서 제어 할 수 있게 UI 로 연동하기
+1. Collider2D
+
+2. Camera
+
+3. Light2D
+
+- 수요일
+4. Animator2D 
+
+- 목요일
+5. TileMap

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Default</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Default</Filter>
+    </ClInclude>
+    <ClInclude Include="CBackgroundScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CMissileScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CScriptMgr.h">
+      <Filter>ScriptMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CMonsterScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>Default</Filter>
+    </ClCompile>
+    <ClCompile Include="Scripts.cpp">
+      <Filter>Default</Filter>
+    </ClCompile>
+    <ClCompile Include="CBackgroundScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CMissileScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CScriptMgr.cpp">
+      <Filter>ScriptMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CMonsterScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Default">
+      <UniqueIdentifier>{4f2f6642-c0f0-494a-9d81-0124398fdb95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts">
+      <UniqueIdentifier>{af5c3808-4d30-476b-b2ab-d844558017d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ScriptMgr">
+      <UniqueIdentifier>{b42de7fc-e585-40cf-9c65-79e91e2b59d4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
